@@ -1,0 +1,33 @@
+<VerticalContainer
+    align="{0}"
+    padding="{5}">
+    <Label
+            path="label"
+            text='hello'
+            bold="{False}"
+            italic="{False}"
+            font_name="{None}"
+            font_size="{None}"
+            color="{None}"
+    />
+    <HorizontalContainer>
+        <Label
+            path="label"
+            text='hello 1'
+            bold="{False}"
+            italic="{False}"
+            font_name="{None}"
+            font_size="{None}"
+            color="{None}"
+        />
+        <Label
+            path="label"
+            text='hello 2'
+            bold="{False}"
+            italic="{False}"
+            font_name="{None}"
+            font_size="{None}"
+            color="{None}"
+        />
+    </HorizontalContainer>
+</VerticalContainer>
