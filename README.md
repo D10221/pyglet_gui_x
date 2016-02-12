@@ -1,7 +1,7 @@
 # pyglet_gui_x
 pyglet + pyglet_gui + x?
 
-exploring python3, type hints, found pyglet [pyglet_gui][1] proposing a more delarative, modular approach
+exploring python3, type hints, found pyglet [pyglet_gui][1] proposing a more declarative, modular approach
 to draw components/controls and separating theming from structure .   
  it ignited my imagination, what if you could use a simple one way data-binding?
    ui observing changes, triggering back signals-like to models/view-models ?
